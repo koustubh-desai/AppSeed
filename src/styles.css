@@ -1,0 +1,17 @@
+
+
+/*******************
+GLOBAL STYLE
+*******************/
+
+
+ul, li{
+	list-style:none;
+}
+
+#navigation{
+	margin: 0 0 2em 0;
+}
+.dashboard-items{
+	margin: 0 0 0 5px;
+}
